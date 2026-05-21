@@ -1,0 +1,12 @@
+{
+  "name": "grabpo",
+  "compatibility_date": "2025-05-21",
+  "pages_build_output_dir": "dist",
+  "d1_databases": [
+    {
+      "binding": "grabpo_db",
+      "database_name": "grabpo-db",
+      "database_id": "a9496ec8-a460-4f2b-a021-1303650dd7ab"
+    }
+  ]
+}
